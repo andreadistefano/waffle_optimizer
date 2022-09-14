@@ -1,5 +1,7 @@
 # Waffle Optimizer
-Find optimal solutions for [Waffle](https://wafflegame.net/). **This is not a solver**, as it requires the correct solution beforehand.
+Find solutions for [Waffle](https://wafflegame.net/). **This is not a solver**, as it requires the correct solution beforehand.
+
+Most waffles get solved with optimal solutions (10 moves). Some waffles require 11 or 12.
 
 No external dependencies. Tested on python 3.9
 
