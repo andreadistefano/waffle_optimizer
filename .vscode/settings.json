@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "waffle_optimizer"
+        "waffle_optimizer",
+        "waffles"
     ]
 }
